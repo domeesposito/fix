@@ -8,7 +8,8 @@
   ],
   "website": "https://heroku.github.io/fix",
   "repository": "https://github.com/heroku/fix.git",
-  "logo": "https://heroku.github.io/fix/images/fix-logotype.svg",
+  "logo1": "https://heroku.github.io/fix/images/fix-logotype.svg",
+  "logo": "http://www.octotelematics.com/images/logo.png"
   "success_url": "/admin",
   "scripts": {
     "postdeploy": "bin/setup"
